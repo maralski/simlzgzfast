@@ -1,0 +1,7 @@
+name: juno-improvements
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
